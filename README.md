@@ -1,7 +1,7 @@
 # Аттестация
 
 using System;
-namespace ConsoleApp5
+namespace AdamMusaev
 {
     class OneMain
     {
